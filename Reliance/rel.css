@@ -1,0 +1,299 @@
+.header{
+  width:100%;
+  height:125px;
+  background: white;
+  margin:0%;
+  border-bottom:#bfa161 solid 3px;
+  
+  
+}
+body{
+    margin:0;
+  
+}
+.logo{
+    
+    margin-left: 290px;
+    margin-top:25px ;
+}
+.button{
+    width: 147px;
+    height: 32px;
+    color:#254399;
+    border:none;
+    }
+.mutton{
+    width: 147px;
+    height: 32px;
+    margin-left: 10px;
+    color:#254399;
+    border: none;
+
+}
+.update_pannel{
+    display: flex;
+    align-items: center;
+    margin-left: 650px;
+    margin-top: -70px;
+}
+input[type=search]{
+    background-color: #f1f1f1;
+    border:none;
+    font-size: 16px;
+    padding: 7px 20px;
+    width: 147px;
+    margin-left: 10px;
+  }
+  .share{
+    
+    width:230px;
+    height: 33px;
+    padding-left: 10px;
+    margin-left: 10px;
+  }
+  .we{
+    margin-top: 0px;
+  }
+ .facebook{
+background:url(https://www.ril.com/App_Themes/RIL/images/generic/facebook-icon.png)no-repeat 50% #BFA161;
+height: 21px;
+    width: 35px;
+    margin-left: -50px;
+    margin-top: -3px;
+    padding-top: 11px;
+ }
+ .twitter{
+    background:url(https://www.ril.com/App_Themes/RIL/images/generic/twitter-icon.png)no-repeat 50% #BFA161;
+    height: 33px;
+    width: 35px;
+    margin-left: 9px;
+ }
+ .linkedin{
+    background:url(https://www.ril.com/App_Themes/RIL/images/generic/linkedin-icon.png)no-repeat 50% #BFA161;
+    height: 33px;
+    width: 35px;
+    margin-left: 9px;
+ }
+ .youtube{
+    height: 33px;
+    width: 35px;
+    margin-left: 9px;
+    background:url(https://www.ril.com/App_Themes/RIL/images/generic/youtube-icon.png)no-repeat 50% #BFA161;
+ }
+  .stories{
+    color: #6e6e6e;
+    padding: 40px 285px 0px;
+    background-color: inherit !important;
+    line-height: 14px;
+    font-size: 14px;
+    display: block;
+    
+}
+li{
+    list-style: none;
+    display: inline-block;
+  }
+.section{
+    background-color: #f2f2f2;
+    height: 400px;
+    margin-top: -14px
+}
+.fullpack{
+    
+    height:360px;
+    width:70%;
+    margin-left: 250px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.packone{
+    
+    height: 360px;
+    width:40%;
+}
+.packhead{
+    color:#333;
+    font-family:sans-serif;
+    font-size:revert;
+
+    
+}
+.fullbox{
+    background-color: blanchedalmond;
+    height:100px;
+    width:70%;
+    margin-left: 250px;
+}
+.info1{
+    
+    height:50px;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.jan20{
+    height: 28px;
+    width:19%;
+    text-align: center;
+    background-color: #254399;
+    color:#fff;
+    padding-top: 9px;
+}
+.FY{
+    color:#707170;
+    height:50px;
+    width:84%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    margin-left: 10px;
+    font-weight:revert;
+}
+.info2{
+    height:50px;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.jan17{
+    height: 28px;
+    width:19%;
+    text-align: center;
+    background-color: #254399;
+    color:#fff;
+    padding-top: 9px;
+    margin-top: 40px;
+}
+.true5G{
+    color:#707170;
+    height:10px;
+    width:84%;
+    font-size: 13px;
+    margin-left: 10px;
+   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight: revert;
+}
+
+.info3{
+    height:50px;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.jan14{
+    height: 28px;
+    width:19%;
+    text-align: center;
+    background-color: #254399;
+    color:#fff;
+    padding-top: 9px;
+    margin-top: 80px;
+}
+ .jio{
+    color:#707170;
+    height:0px;
+    width:84%;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 23px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: revert;
+}
+.right{
+    margin-left: 370px;
+    margin-top: 70px;
+   color: #bfa161;
+}
+.sub{
+    color:#707170;
+}
+.mailbutton{
+   background-color: #BFA161;
+   color:#fff;
+   border: none;
+   width: 95px;
+    height: 30px;
+    border-radius: 4px;
+}
+.mailbutton:hover{
+    background-color: #a88946;
+}
+.mail{
+    width: 155px;
+    height: 30px;
+    border: none;
+    color:#707170;
+}
+.packtwo{
+    
+    height:360px;
+    width:20%;
+    align-items: center;
+
+}
+.logo2{
+    margin-bottom: 68px;
+    padding-left: 30px;
+    margin-top: 17px;
+    
+}
+.Quote{
+    margin-left: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    color:#707170;
+}
+.Quote:hover{
+  color:#BFA161
+}
+.packthree{
+    width:40%;
+    height:360px;
+    
+
+}
+.QL{
+    color:#333;
+    padding-left: 13%;
+}
+.Links{
+    list-style-type: disc;
+    line-height: 1.999971429;
+    font-size: 14px;
+    color:#707170;
+    font-weight: 300;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.Allrights{
+    
+    height:70px;
+    margin-top: -20px
+}
+.firstbox{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:12px;
+    margin-left: 250px;
+    margin-top: 45px;
+    color:#707170;
+}
+.Secondbox{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 885px;
+    font-size:12px;
+    margin-top: -68px;
+    color:#707170;
+}
+.line2{
+    width:0.5px;
+    height: 220px;
+    background-color: #707170;
+    border:none;
+    opacity: 25%;
+}
+.line{
+    width:0.5px;
+    height: 220px;
+    background-color: #707170;
+    border:none;
+    opacity: 25%;
+}
